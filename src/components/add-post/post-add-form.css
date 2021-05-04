@@ -1,0 +1,10 @@
+.bottom-panel {
+  margin-top: 60px;
+}
+
+.bottom-panel .new-post-label {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+  color: rgb(216, 162, 15);
+}
